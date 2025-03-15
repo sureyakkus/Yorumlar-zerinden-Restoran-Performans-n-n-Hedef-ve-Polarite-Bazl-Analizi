@@ -1,4 +1,4 @@
-# Yorumlar-zerinden-Restoran-Performans-n-n-Hedef-ve-Polarite-Bazl-Analizi
+# Yorumlar uzerinden Restoran Performansinin Hedef ve Polarite Bazli Analizi
 ** DERLEM ÖZELLİKLERİ**
 
 Seçtiğim derlem http://metashare.ilsp.gr:8080/repository/download/ff5dad70676311e5bf9c842b2b6a04d71fa7fa3ba4504a228dafe0c24560585b/ (SemEval-2016 ABSA Restaurant Reviews-Turkish: Train Data (Subtask 1))
