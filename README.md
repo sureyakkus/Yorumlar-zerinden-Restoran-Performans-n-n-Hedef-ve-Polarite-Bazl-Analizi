@@ -1,0 +1,1 @@
+# Yorumlar-zerinden-Restoran-Performans-n-n-Hedef-ve-Polarite-Bazl-Analizi
